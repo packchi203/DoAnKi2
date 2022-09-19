@@ -1,0 +1,6 @@
+
+Database name : shopping 
+
+Login Admin :
+User Name : admin
+Password : Test@123
